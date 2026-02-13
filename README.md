@@ -9,7 +9,7 @@ This project is a Python web scraper designed to extract job listings from the [
 * **CSV Export:** Saves the scraped data into a `job_results.csv` file.
 * **Clean Logic:** Uses explicit targeting of HTML elements using `BeautifulSoup`.
 
-## Technologies Used
+## Tools I Used
 
 * **Python 3**
 * **Requests** (Library for making HTTP requests)
