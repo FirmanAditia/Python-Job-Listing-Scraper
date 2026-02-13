@@ -6,7 +6,7 @@ This project is a Python web scraper designed to extract job listings from the [
 
 * **Data Extraction:** Scrapes Job Title, Company Name, Location, and Application URL.
 * **Edge Case Handling:** Automatically handles missing data (e.g., missing location or company name) without crashing.
-* **CSV Export:** Saves the scraped data into a `job_results.csv` file.
+* **CSV Export:** Saves the scraped data into a '.csv' file.
 * **Clean Logic:** Uses explicit targeting of HTML elements using `BeautifulSoup`.
 
 ## Tools I Used
