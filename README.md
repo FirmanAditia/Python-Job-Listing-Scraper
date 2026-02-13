@@ -1,5 +1,7 @@
 # Python-Job-Listing-Scraper
 
+## Project Page: https://roadmap.sh/projects/job-listings-scraper
+
 This project is a Python web scraper designed to extract job listings from the [Real Python Fake Jobs](https://realpython.github.io/fake-jobs/) website. It gathers key information from job cards and saves the data into a structured CSV file.
 
 ## Features
